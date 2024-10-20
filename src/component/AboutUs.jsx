@@ -1,5 +1,5 @@
 import React from "react";
-import alexaTeam from "/Users/parnikasharma/adv_project/src/assets/alexaTeam.png"; 
+import alexaTeam from '../assets/alexaTeam.png'; 
 
 const AboutUs = () => {
   return (
