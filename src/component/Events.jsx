@@ -35,10 +35,10 @@ const Events = () => {
 };
 
 const eventData = [
-  { image: "src/assets/tnextgen.png", title: "Tech NextGen" },
-  { image: "src/assets/graphq.png", title: "Graph Q?" },
-  { image: "src/assets/git101.png", title: "Git101" },
-  { image: "src/assets/ui.png", title: "UI/UX" },
+  { image: "/tnextgen.png", title: "Tech NextGen" },
+  { image: "/graphq.png", title: "Graph Q?" },
+  { image: "/git101.png", title: "Git101" },
+  { image: "/ui.png", title: "UI/UX" },
 ];
 
 const styles = {

@@ -1,5 +1,5 @@
 import React from "react";
-import alexaTeam from "../assets/alexaTeam.png"; 
+import alexaTeam from "/Users/parnikasharma/adv_project/src/assets/alexaTeam.png"; 
 
 const AboutUs = () => {
   return (
@@ -35,7 +35,7 @@ const AboutUs = () => {
           </p>
         </div>
 
-        {/* Image on the right side */}
+        
         <div className="flex-1 text-center">
           <img
             src={alexaTeam}

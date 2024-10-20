@@ -3,10 +3,10 @@ import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 
 const images = {
-  technical: 'src/assets/tech.png',       
-  creatives: 'src/assets/creatives.png',
-  events: 'src/assets/events.png',
-  business: 'src/assets/business.png',
+  technical: '/tech.png',       
+  creatives: '/creatives.png',
+  events: '/events.png',
+  business: '/business.png',
 };
 
 const domainsData = [

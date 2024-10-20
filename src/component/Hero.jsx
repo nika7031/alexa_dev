@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import * as THREE from "three";
-import alexaLogo from "../assets/alexaLogo.webp";
+import alexaLogo from "/Users/parnikasharma/adv_project/src/assets/alexaLogo.webp";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowDown } from "@fortawesome/free-solid-svg-icons";
 
